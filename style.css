@@ -473,8 +473,9 @@ h3
 
 .offer-colmn .team_img img
 {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
+    padding: 8px 165px;
 
 }
 .offer-colmn .icons .fa-brands
@@ -489,6 +490,13 @@ h3
     {
         flex-direction: column;
     }
+    .offer-colmn .team_img img
+   {
+    width: 60px;
+    height: 60px;
+    padding: 6px 125px;
+
+   }
 }
 /* testimonials */
 .testimonials
