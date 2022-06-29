@@ -468,6 +468,7 @@ h3
     height: 80px;
     border-radius: 50%;
     position: absolute;
+    top: -6px;
     /* left: 50%; */
 }
 
